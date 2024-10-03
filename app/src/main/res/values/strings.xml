@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="signup">SignUp</string>
+
+    <string-array name="gender_options">
+        <item>Mr</item>
+        <item>Miss</item>
+        <item>Mst</item>
+        <item>Master</item>
+    </string-array>
+</resources>
